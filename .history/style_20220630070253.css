@@ -1,0 +1,22 @@
+.pvc{
+    background-image: url(./assests/2289977149.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    border-radius: 20px;
+}
+
+.col-lg-4> .img-div{
+    height: 400px;
+    border-radius: 20px;
+}
+
+.wooden{
+    background-image: url(./assests/wooden.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    border-radius: 20px;
+}

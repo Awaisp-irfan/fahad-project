@@ -1,0 +1,83 @@
+.pvc{
+    background-image: url(./assests/2289977149.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    border-radius: 20px;
+}
+
+.col-lg-4>a > .img-div{
+    height: 400px;
+    border-radius: 20px;
+}
+.col-lg-4>.img-div{
+    height: 400px;
+    border-radius: 20px;
+    background-color: azure;
+}
+.wooden{
+    background-image: url(./assests/wooden.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    border-radius: 20px;
+}
+
+.display{
+    background-image: url(./assests/display.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    border-radius: 20px;
+}
+.cm60{
+    background: url(./assests/60cm\ PVC.png);
+   
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    border-radius: 20px;
+}
+
+.cm80{
+    background: url(./assests/80cm\ PVC.jpg);
+   
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    border-radius: 20px;
+}
+
+.cm90{
+    background: url(./assests/90cm\ PVC.jpg);
+   
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    border-radius: 20px;
+}
+.cm100{
+    background: url(./assests/100cm\ PVC.jpg);
+   
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    border-radius: 20px;
+}
+
+.cm50{
+    background: url(./assests//50cm\ PVC.png);
+   
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    border-radius: 20px;
+}
