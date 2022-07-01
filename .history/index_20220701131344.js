@@ -237,11 +237,6 @@ europeDropdown.classList.remove('hide')
 
     function updateSelection7 (){
         designCreation.classList.add('active')
-        checkFile.classList.remove('active')
-    }
-    function updateSelection8 (){
-        designCreation.classList.remove('active')
-        checkFile.classList.add('active')
     }
 
 function result(){
